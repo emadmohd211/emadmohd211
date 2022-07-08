@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emad
 - 👀 I’m interested in c++ and blockchain development on ethereum and cosmos
-- 🌱 I’m currently learning the development with cosmos sdk and tendermint, zero knowlege proofs- zksnarks.
+- 🌱 I’m currently working with the development with cosmos sdk and tendermint, zero knowlege proofs- zksnarks.
 
 
 <!---
